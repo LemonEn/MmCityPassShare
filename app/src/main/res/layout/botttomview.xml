@@ -5,6 +5,7 @@
     android:background="#00000000" >
 
    <RadioGroup
+
        android:id="@+id/main_radiogroup"
        android:orientation="horizontal"
        android:weightSum="5"
